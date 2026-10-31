@@ -119,45 +119,49 @@ Complaint outcomes.
 
 ## 6. Business Questions
 
-The analysis addresses the following questions:
+- The analysis addresses the following questions:
 
-How many passenger complaints were recorded each year?
+- How many passenger complaints were recorded each year?
 
-Which three airlines had the highest number of complaints in 2025?
+- Which three airlines had the highest number of complaints in 2025?
 
-During which period of 2024 were issues most frequently classified as outside airline control?
+- During which period of 2024 were issues most frequently classified as outside airline control?
 
-How have issues within and outside airline control evolved from 2018 to 2026?
+- How have issues within and outside airline control evolved from 2018 to 2026?
 
-What is the most frequent passenger complaint category since 2018?
+- What is the most frequent passenger complaint category since 2018?
 
-Which itinerary recorded the highest number of baggage-related issues?
+- Which itinerary recorded the highest number of baggage-related issues?
 
-Which complaint category had the highest number of rejected claims?
+- Which complaint category had the highest number of rejected claims?
 
-Which issue categories were most frequently attributed to airline control?
+- Which issue categories were most frequently attributed to airline control?
 
-How have complaint categories evolved over time?
+- How have complaint categories evolved over time?
 
 ## 7. Key Findings and Insights
 
-This section will be updated after completing the SQL analysis and Power BI dashboard.
+Findings:
 
-For each business question, the findings will include:
+- Air canada was the airline received the highest number of complaints
+- The itinerary with the highest complaints ate is YYZ-YVR
+- December is the month with higher complaints
+- 51.5% of the complaints was dismissed
+- flight disruption is the most frequent issue encountered during the previous years
+- The complaints reduce over time from 2023
+- Airlines are responsible of 62.61 % of flight disruption.
 
-Analysis results.
-
-Important trends and patterns.
-
-Key business insights.
-
-Potential recommendations.
-
-## 8. Power BI Dashboard
-
-<img width="1331" height="750" alt="Dashboard" src="https://github.com/user-attachments/assets/066c635a-5ad3-4b0a-bb0d-b2ed2e351043" />
-
-
+Recommendations:
+- Airlines need to take more precaution for the month of December.
+- Airlines should implement real-time baggage tracking technology using barcode scanning.
+- Airlines should improve staff training and establish 
+standardized procedures for loading, unloading, sorting, and transferring baggage.
+-Airlines should improve crew scheduling, 
+aircraft maintenance, and operational contingency planning to 
+minimize preventable delays and cancellations.
+- Also airlines need to educate the passengers with non refundable tickets flights, 
+about their ticket flight policies, especially 
+in case of cancellation, flight delay or disruption.
 
 ## 9. Database Schema
 
